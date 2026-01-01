@@ -1,42 +1,134 @@
-### Hi there 👋
+# Amit Varshney
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitv1992&"/></p>
+**Senior Software Engineer**  
+Long-term Product Development • React Native • TypeScript • Backend Systems
+
+I am a senior software engineer with experience building, scaling, and maintaining **long-running production systems**.  
+I specialize in working on **complex products over extended periods**, where stability, architecture, and ownership matter more than quick delivery.
+
+I prefer collaborating with teams and clients who are building **serious products meant to last for years**.
+
+---
+
+## Professional Summary
+
+- Senior engineer with strong **end-to-end ownership**
+- Experienced in **multi-year product development**
+- Comfortable working on **existing, complex codebases**
+- Known for solving **hard, non-obvious technical problems**
+- Strong focus on **maintainability, scalability, and clarity**
+
+---
+
+## Languages & Technologies
+
+### Programming Languages
+- TypeScript
+- JavaScript
+- SQL (working knowledge)
+
+### Frontend & Mobile
+- React Native (production-grade applications)
+- React
+- Component-driven architecture
+- Performance optimization for mobile apps
+
+### Backend & APIs
+- Node.js
+- Express
+- REST API design
+- Secure and scalable API integrations
+
+### State, Data & Architecture
+- Recoil
+- Redux
+- Predictable state management
+- Clean separation of business logic and UI
+
+### Tooling & Workflow
+- Git & GitHub (professional workflows)
+- Debugging large codebases
+- Refactoring legacy code safely
+- Code reviews & technical mentoring
+
+---
+
+## Products & Systems I Have Worked On
+
+Over the years, I have worked closely with teams on **real production products**, including:
+
+- Long-running **mobile applications** with continuous feature evolution
+- Backend services supporting **business-critical workflows**
+- Products with **frequent data synchronization and API integrations**
+- Systems where **performance, stability, and reliability** were critical
+
+My role often involved not just adding features, but **improving architecture**, reducing technical debt, and making the system easier to maintain for the long term.
+
+---
+
+## Complex Problems We Solved Together
+
+Some examples of the kind of challenges I regularly handle:
+
+- Refactoring tightly coupled legacy code without breaking production
+- Stabilizing apps suffering from inconsistent state and hard-to-reproduce bugs
+- Designing scalable state management for growing feature sets
+- Handling edge cases in real-world data and user behavior
+- Improving performance and responsiveness in large React Native apps
+- Making systems easier for new developers to understand and contribute to
+
+I am comfortable working through **ambiguous, messy problems** and turning them into **clean, understandable solutions**.
+
+---
+
+## How I Work
+
+- Prefer **long-term engagements** and deep involvement
+- Strong sense of **ownership and responsibility**
+- Clear and honest technical communication
+- Proactive about identifying risks and technical debt
+- Write code that is easy to read, maintain, and extend
+- Comfortable collaborating with product, design, and non-technical stakeholders
+
+---
+
+## Ideal Engagements
+
+- 📱 Long-term mobile or web product development  
+- 🧩 Ongoing feature development & system evolution  
+- 🛠 Refactoring and stabilizing mature codebases  
+- 🚀 Early-stage products that need a strong technical foundation  
+- 🏢 Teams looking for a **reliable senior engineer**, not just short-term execution  
+
+---
+
+## Professional Values
+
+- Long-term thinking over shortcuts
+- Clean and understandable code
+- Sustainable development pace
+- Honest timelines and expectations
+- Treating products as long-term responsibilities
+
+---
+
+## Contact
+
+If you are looking for a **senior engineer for long-term collaboration**, feel free to reach out.
+
+- **Email:** amit.varshney1@yahoo.co.in
+- **LinkedIn:** https://www.linkedin.com/in/amitvarshney1/
+
+---
+
+*I believe the best software is built through consistency, clarity, and care over time.*
 
 
+---
 
-<br>
+## ⚡ Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amitv1992&theme=react-dark&hide_border=true)
 
-<h2 align="left">📄 My Stats:</h2>
+---
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitv1992" alt="amitv1992" /></a> </p>
-
-<br>
-
-
-<h2 align="left">📊 My Github Stats:</h2>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitv1992" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=amitv1992&show_icons=true" alt="amitv1992" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitv1992&" alt="amitv1992" /></p>
-
-<br>
-<h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Amit Varshney's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=amitv1992&theme=react-dark&hide_border=true" /></a>
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitv1992&label=Profile%20views&color=0e75b6&style=flat" alt="Amit Varshney's Profile stats" /> </p>
-<!--
-**amitv1992/amitv1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile Views](https://komarev.com/ghpvc/?username=amitv1992)
